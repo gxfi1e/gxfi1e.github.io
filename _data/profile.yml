@@ -1,18 +1,18 @@
-primary_name: "Your Name"
+primary_name: "Maojin Gong (公茂锦))"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Maojin Gong"
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- name: PhD Candidate
+- name: KAUST: King Abdullah University of Science and Technology
+  logo: /assets/images/badges/KAUST.png  # Logo is optional
 
 
-email: "your@email.com"
+email: "maojin.gong@kaust.edu.sa"
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
+gscholar: 91JqMBYAAAAJ&hl  # This is an example, replace it with your own Google Scholar ID
+researchgate: https://www.researchgate.net/profile/Maojin-Gong?ev=hdr_xprf
+
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
@@ -35,16 +35,16 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+- name: King Abdullah University of Science and Technology （KAUST）
+  logo: /assets/images/badges/KAUST.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+    Department of Physical Science Engineering <br/>
+    Ph.D. Candidate
+  date: Jan. 2023 - present
+- name: Ocean University of China (OUC)
+  logo: /assets/images/badges/OUC.png
+  position: M.S. in Hydrolic Engineering
+  date: Sep. 2019 - Jul. 2022
 
 # experience:
 # - name: Peking University
