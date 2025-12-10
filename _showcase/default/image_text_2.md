@@ -13,15 +13,15 @@ async function loadCitations() {
     const data = await res.json();
 
     let yearly = {};
-
+    
     data.papers.forEach(p => {
         if (!p.year) return;
         yearly[p.year] = (yearly[p.year] || 0) + p.citationCount;
     });
-
+    
     const years = Object.keys(yearly).sort();
     const citations = years.map(y => yearly[y]);
-
+    
     new Chart(document.getElementById("citation-chart"), {
         type: 'bar',
         data: {
@@ -35,4 +35,5 @@ async function loadCitations() {
 }
 
 loadCitations();
-</script>
+</script>
+
