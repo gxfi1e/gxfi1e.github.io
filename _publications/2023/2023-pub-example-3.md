@@ -10,7 +10,7 @@ abstract: >-
   VIV, triggers interference galloping, and even induces a new bifurcated
   oscillation mode. Optimal spacing and plate width significantly enhance energy
   harvesting performance.
-cover:          /assets/images/covers/20233.tif
+cover:          /assets/images/covers/20233.png
 authors:
 - Maojin Gong
 - Dingyong Yu

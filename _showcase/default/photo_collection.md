@@ -1,17 +1,24 @@
 ---
 show: true
 width: 4
-date: 2021-09-12 00:01:00 +0800
 height: 295px
+date: 2021-09-12 00:01:00 +0800
+
 images:
-- src: https://picsum.photos/seed/first1111/800/800
-  title: Photo 1
-  desc: Description 1.
-  link: https://picsum.photos/
-- src: https://picsum.photos/seed/second22/800/800
-  title: Photo 2
-  desc: Description 2
-- src: https://picsum.photos/seed/third33/800/800
+  - src: "{{ 'assets/images/badges/KAUST.jpeg' | relative_url }}"
+    class: "img-fluid rounded-xl"
+    title: "Photo 1"
+    desc: "Description 1."
+
+  - src: "{{ 'assets/images/badges/MATT.jpeg' | relative_url }}"
+    class: "img-fluid rounded-xl"
+    title: "Photo 2"
+    desc: "Description 2"
+
+  - src: "{{ 'assets/images/badges/DOLO.jpeg' | relative_url }}"
+    class: "img-fluid rounded-xl"
+    title: "Photo 3"
+    desc: "Description 3"
 ---
 
 {% include widgets/carousel.html id=page.id images=page.images height=page.height %}

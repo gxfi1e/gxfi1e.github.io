@@ -9,7 +9,7 @@ abstract: >-
   This study numerically examines how spacing ratio and transverse inclination angle govern force coefficients, wake interference, and flow transition in two tandem circular cylinders arranged in an X configuration at Re = 3900. The results reveal clear criteria for the transition from reattachment to co-shedding regimes and propose a nondimensional center-spacing parameter that explains the coupled influence of spacing and inclination on flow stability.
 cover:          /assets/images/covers/2024.jpeg
 authors:
-- Maojin Gong*
+- Maojin Gong
 - Dingyong Yu
 - Bassam Dally
 links:
