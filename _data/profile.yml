@@ -1,4 +1,4 @@
-primary_name: "Maojin Gong (公茂锦))"
+primary_name: "Maojin Gong (公茂锦)"
 secondary_name: ""
 navbar_name: "Maojin Gong"
 
@@ -21,17 +21,11 @@ gscholar: 91JqMBYAAAAJ&hl  # This is an example, replace it with your own Google
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
-  </p>
-  <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    I am a PhD candidate in Mechanical Engineering at King Abdullah University of Science and Technology (KAUST), specializing in flow-induced vibration, wake dynamics, and vibration-based energy harvesting. My work combines numerical simulation and fluid–structure interaction modeling to advance the fundamental understanding of wake interference and to develop efficient FIV-based energy systems.
   </p>
 
+
 portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
 - name: King Abdullah University of Science and Technology （KAUST）
@@ -42,19 +36,21 @@ education:
   date: Jan. 2023 - present
 - name: Ocean University of China (OUC)
   logo: /assets/images/badges/OUC.png
-  position: M.S. in Hydrolic Engineering
+  position: M.S. in Hydraulic Engineering
   date: Sep. 2019 - Jul. 2022
+- name: Ludong University (LDU)
+  logo: /assets/images/badges/LDU.png
+  position: B.S. in Port, Waterway and Coastal Engineering
+  date: Sep. 2015 - Jul. 2019 
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
 
 awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+- name: Dibble Travel Fellowship of CERP, KAUST (2025). Number of Awards：(1 male, 1 female). 
+  date: 2025.11
+- name: Best Paper Award – 6th International Conference on Vibration and Energy Harvesting Applications (VEH 2025), Hong Kong
+  date: 2025.07
+- name: Dean’s Award of PSE, KAUST (2025)
+  date: 2025.05
+- name: First Place of KAUST Photography Contest (2025) 
+  date: 2025.04
+
