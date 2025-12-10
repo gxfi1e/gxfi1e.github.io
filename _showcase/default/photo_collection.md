@@ -5,17 +5,17 @@ height: 295px
 date: 2021-09-12 00:01:00 +0800
 
 images:
-  - src: "{{ 'assets/images/badges/KAUST.jpeg' | relative_url }}"
+  - src: "{{ 'assets/images/photos/KAUST.jpeg' | relative_url }}"
     class: "img-fluid rounded-xl"
     title: "Photo 1"
     desc: "Description 1."
 
-  - src: "{{ 'assets/images/badges/MATT.jpeg' | relative_url }}"
+  - src: "{{ 'assets/images/photos/MATT.jpeg' | relative_url }}"
     class: "img-fluid rounded-xl"
     title: "Photo 2"
     desc: "Description 2"
 
-  - src: "{{ 'assets/images/badges/DOLO.jpeg' | relative_url }}"
+  - src: "{{ 'assets/images/photos/DOLO.jpeg' | relative_url }}"
     class: "img-fluid rounded-xl"
     title: "Photo 3"
     desc: "Description 3"
