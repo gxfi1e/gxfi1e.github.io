@@ -7,3 +7,4 @@ class: ""  # Override the default card style
 <div>
 <img src="{{ 'assets/images/etc/frisbee.png' | relative_url }}" class="img-fluid rounded-xl" >
 </div>
+
