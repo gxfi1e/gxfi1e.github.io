@@ -8,6 +8,8 @@ date: 2024-01-12 00:01:00 +0800
     <h2>Photography, frisbee, and cats</h2>
     <hr />
     <p>
-        Its all about the hobbies which help me relax my mind.
+        It's all about the hobbies that help me relax my mind.
     </p>
+    <img src="{{ 'assets/images/etc/F2.jpg' | relative_url }}" class="img-fluid rounded-xl">
 </div>
+
